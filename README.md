@@ -16,7 +16,7 @@
 <img aling="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=blacke"/>
 </div><br/>
 
-Sou amante de ciência e tecnologias, e quero viver todo meu potencia com essas ferramentas. Pretendo mudar o mundo, nem que seja o mundo de uma pessoa só.
+Sou amante de ciência e tecnologias, e quero viver todo meu potencia com essas ferramentas. 
 
 ## Contato:
 Email: tiagocosvieira@gmail.com
