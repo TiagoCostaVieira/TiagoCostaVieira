@@ -6,7 +6,6 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-vieira-1672b8230/)
 
-![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoCostaVieira&theme=midnight-purple)]
 
 ## Tecnologias que uso ou estou aprendendo
 
