@@ -17,7 +17,7 @@
 </div>
 
 
-Sou amante de ciência e tecnologias, e quero viver todo meu potencia com essas ferramentas. 
+I am a perfectionist when it comes to programming. 
 
 ## Contact:
 Email: tiagocostavieiracontato@gmail.com
