@@ -24,4 +24,4 @@
 I am a perfectionist when it comes to programming. 
 
 ## Contact:
-Email: tiagocostavieiracontato@gmail.com
+Email: tiagocosvieira@gmail.com
