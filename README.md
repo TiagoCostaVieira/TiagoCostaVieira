@@ -32,10 +32,6 @@
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
 
-~> <strong>tiago´s mind</strong> </br>
- Login: tiago</br>                              Name: Tiago Vieira</br>
- Directory: /home/tiago</br>                   Shell: /usr/bin/fish
-
 I am a perfectionist when it comes to programming. 
 
 ## Contact:
